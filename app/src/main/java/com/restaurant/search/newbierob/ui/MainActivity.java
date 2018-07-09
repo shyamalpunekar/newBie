@@ -1,4 +1,4 @@
-package com.restaurant.search.newbierob;
+package com.restaurant.search.newbierob.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.restaurant.search.newbierob.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.restaurant.search.newbierob;
+package com.restaurant.search.newbierob.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.restaurant.search.newbierob.R;
 
 public class RecipeActivity extends AppCompatActivity {
 

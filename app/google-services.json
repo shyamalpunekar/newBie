@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "704988932051",
+    "firebase_url": "https://yummlyrecipe-5d901.firebaseio.com",
+    "project_id": "yummlyrecipe-5d901",
+    "storage_bucket": "yummlyrecipe-5d901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704988932051:android:88321ab066a4df11",
+        "android_client_info": {
+          "package_name": "com.restaurant.search.newbierob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704988932051-gdeeru46cn6aqk8l2r659nt446kd0a0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXr173GOMFHELExjpnOzJ9SVo0kVql8v4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

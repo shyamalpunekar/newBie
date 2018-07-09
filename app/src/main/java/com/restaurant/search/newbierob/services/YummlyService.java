@@ -1,4 +1,4 @@
-package com.restaurant.search.newbierob;
+package com.restaurant.search.newbierob.services;
 import okhttp3.Callback;
 import okhttp3.OkHttpClient;
 
